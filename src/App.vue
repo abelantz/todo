@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="container">
     <img alt="Vue logo" class="logo" src="./assets/logo.png">
-    <HelloWorld msg="Alejna's todo App"/>
+    <HelloWorld msg="Todo App"/>
     <todo-list></todo-list>
   </div>
 </template>
